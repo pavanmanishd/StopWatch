@@ -1,0 +1,30 @@
+body{
+    height: 100%;
+    background-color: #CDFCF6;
+    text-align: center;
+}
+.container{
+    width:800px;
+    color: #98A8F8;
+    width: 100%;
+}
+h1{
+    font-family: "Georgia";
+    font-size: 60px;
+}
+span{
+    font-size: 50px;
+    font-family: "Georgia";
+}
+button{
+    font-size: 40px;
+    margin: 4%;
+    background-color: #CDFCF6;
+    border: solid 3px;
+    padding: 10px;
+    border-radius: 20px;
+    color: #150050;
+}
+
+
+
